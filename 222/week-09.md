@@ -10,7 +10,7 @@
 ## Blackboard Collab Session
 [Visual Design Essentials](https://docs.google.com/presentation/d/e/2PACX-1vRXYgkTG2-Rbc2UUGbzDMDUiPvYdjEvuPqxQr17TaLaDa-yDjja-gV9ZXBEo9BhOWqjhPex4ae9Kgw_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-09) | [Spring 2022 Recording](https://stream.sfu.ca/Media/Play/d44f95bc523e4574acd0307423f8ab061d)
 
-docs.google.com/presentation/d/e/2PACX-1vRXYgkTG2-Rbc2UUGbzDMDUiPvYdjEvuPqxQr17TaLaDa-yDjja-gV9ZXBEo9BhOWqjhPex4ae9Kgw_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXYgkTG2-Rbc2UUGbzDMDUiPvYdjEvuPqxQr17TaLaDa-yDjja-gV9ZXBEo9BhOWqjhPex4ae9Kgw_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Weekly Readings and Assignment 3 <span class='badge'> [Fri Jul 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220708T1430&p1=256&am=50)</span>   
